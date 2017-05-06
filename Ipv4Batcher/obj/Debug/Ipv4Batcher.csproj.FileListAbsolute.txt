@@ -1,1 +1,2 @@
 C:\Users\JuanPC's\Source\Repos\IPV4BatchInChecker\Ipv4Batcher\Ipv4Batcher\bin\Debug\Ipv4Batcher.exe.config
+C:\Users\JuanPC's\Documents\GitHub\Ipv4Checker\Ipv4Batcher\bin\Debug\Ipv4Batcher.exe.config
