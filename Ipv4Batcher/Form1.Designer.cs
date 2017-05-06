@@ -34,18 +34,20 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(72, 143);
+            this.textBox1.Location = new System.Drawing.Point(12, 12);
+            this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(217, 26);
+            this.textBox1.ReadOnly = true;
+            this.textBox1.Size = new System.Drawing.Size(306, 388);
             this.textBox1.TabIndex = 0;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(324, 137);
+            this.button1.Location = new System.Drawing.Point(367, 188);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(97, 39);
+            this.button1.Size = new System.Drawing.Size(135, 43);
             this.button1.TabIndex = 1;
-            this.button1.Text = "button1";
+            this.button1.Text = "Get Sub-net";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1

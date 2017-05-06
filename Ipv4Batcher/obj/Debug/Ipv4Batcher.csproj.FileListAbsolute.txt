@@ -1,2 +1,10 @@
 C:\Users\JuanPC's\Source\Repos\IPV4BatchInChecker\Ipv4Batcher\Ipv4Batcher\bin\Debug\Ipv4Batcher.exe.config
 C:\Users\JuanPC's\Documents\GitHub\Ipv4Checker\Ipv4Batcher\bin\Debug\Ipv4Batcher.exe.config
+C:\Users\JuanPC's\Documents\GitHub\Ipv4Checker\Ipv4Batcher\bin\Debug\Ipv4Batcher.exe
+C:\Users\JuanPC's\Documents\GitHub\Ipv4Checker\Ipv4Batcher\bin\Debug\Ipv4Batcher.pdb
+C:\Users\JuanPC's\Documents\GitHub\Ipv4Checker\Ipv4Batcher\obj\Debug\Ipv4Batcher.csprojResolveAssemblyReference.cache
+C:\Users\JuanPC's\Documents\GitHub\Ipv4Checker\Ipv4Batcher\obj\Debug\Ipv4Batcher.Form1.resources
+C:\Users\JuanPC's\Documents\GitHub\Ipv4Checker\Ipv4Batcher\obj\Debug\Ipv4Batcher.Properties.Resources.resources
+C:\Users\JuanPC's\Documents\GitHub\Ipv4Checker\Ipv4Batcher\obj\Debug\Ipv4Batcher.csproj.GenerateResource.Cache
+C:\Users\JuanPC's\Documents\GitHub\Ipv4Checker\Ipv4Batcher\obj\Debug\Ipv4Batcher.exe
+C:\Users\JuanPC's\Documents\GitHub\Ipv4Checker\Ipv4Batcher\obj\Debug\Ipv4Batcher.pdb
